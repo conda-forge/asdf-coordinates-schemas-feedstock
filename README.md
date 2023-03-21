@@ -1,11 +1,11 @@
-About asdf-coordinates-schemas
-==============================
+About asdf-coordinates-schemas-feedstock
+========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/asdf-coordinates-schemas-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/asdf-format/asdf-coordinates-schemas
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/asdf-coordinates-schemas-feedstock/blob/main/LICENSE.txt)
 
 Summary: ASDF coordinates schemas
 
@@ -144,5 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@WilliamJamieson](https://github.com/WilliamJamieson/)
+* [@braingram](https://github.com/braingram/)
 * [@jhunkeler](https://github.com/jhunkeler/)
 
