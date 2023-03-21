@@ -17,10 +17,10 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.7
+    - python >=3.8
   run:
-    - asdf >=2.8.0
-    - python >=3.7
+    - asdf >=2.12.1
+    - python >=3.8
 
 test:
   imports:
