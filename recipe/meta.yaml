@@ -1,5 +1,5 @@
 {% set name = "asdf-coordinates-schemas" %}
-{% set version = "0.4.0" %}
+{% set version = "0.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/asdf_coordinates_schemas-{{ version }}.tar.gz
-  sha256: 7067e46ec898f97525fc6aab585c191a2bb9cad02cf19bda7a9ea045ce0ebcc4
+  sha256: b6c8e9aa74f4b325cb66894555c34fa806bf22bb8839144054d35aa5557fadd4
 
 build:
   noarch: python
